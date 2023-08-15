@@ -31,5 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golemvincible&" alt="golemvincible" />
 
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=golemvincible&](https://leetcard.jacoblin.cool/JacobLinCool)" alt="golemvincible" />
+![LeetCode Stats](https://leetcode.card.workers.dev/sourabh_k_?theme=dark&font=baloo&extension=activity)
 </p>
 <br/>
