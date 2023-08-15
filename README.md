@@ -30,6 +30,5 @@
 
 
 
-![LeetCode Stats](https://leetcode.card.workers.dev/sourabh_k_?theme=dark&font=baloo&extension=activity)
 </p>
 <br/>
