@@ -27,11 +27,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=golemvincible&show_icons=true&locale=en&layout=compact" alt="golemvincible" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golemvincible&show_icons=true&locale=en" alt="golemvincible" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golemvincible&" alt="golemvincible" />
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=golemvincible&](https://leetcard.jacoblin.cool/JacobLinCool)" alt="golemvincible" />
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/sourabh_k_?theme=dark&font=baloo&extension=activity)
 </p>
 <br/>
