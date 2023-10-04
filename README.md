@@ -1,13 +1,29 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
-<h3 align="center">Currently a final-year Computer Science Engineer</h3>
+<h3 align= "center"> (but you can also call me) </h3>
+<h2 align="center">Your Friendly Neighbourhood Procrastinator from Indore, India.</h2>
+
+```
+const sourabh: Array<Ingredient> = [
+  Problem-solver, Designer, Developer, Badminton player,
+  Sugar, Spice, ...everythingNice,
+];
+
+```
+<!-- <h3 align="center">Currently a final-year Computer Science Engineer</h3> -->
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
-<p align="left"> <a href="https://twitter.com/sourabhjain220" target="blank"><img src="https://img.shields.io/twitter/follow/sourabhjain220?logo=twitter&style=for-the-badge" alt="anuroop61408179" /></a> </p>
+<h2 align= "center"> About Me </h2>
 
 - 🌱 I’m currently learning **Node.js**
+
+- ⚡Wanna see my portfolio? **[My Portfolio](https://sourabhkothari.vercel.app)**
+  
+- 🖥 Want to hire me? **[My Resume](https://drive.google.com/file/d/1_9u_RJtbEhsGF0DttFisH4A07ELJDwrc/view)**
+  
+- 📫 How to reach me? **[My Email](kotharisourabh06@gmail.com)**
 
 
 <h3 align="left">Languages and Tools:</h3>
