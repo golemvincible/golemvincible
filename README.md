@@ -6,7 +6,7 @@
 
 ```
 const sourabh: Array<Ingredient> = [
-  Problem-solver, Designer, Developer, Badminton player,
+  Problem-solver, Designer, Developer, Badminton-player,
   Sugar, Spice, ...everythingNice,
 ];
 
@@ -19,11 +19,11 @@ const sourabh: Array<Ingredient> = [
 
 - 🌱 I’m currently learning **Node.js**
 
-- ⚡Wanna see my portfolio? **[My Portfolio](https://sourabhkothari.vercel.app)**
+- ⚡ Check my **[Portfolio](https://sourabhkothari.vercel.app)** to get to know me a little better. 
   
 - 🖥 Want to hire me? **[My Resume](https://drive.google.com/file/d/1_9u_RJtbEhsGF0DttFisH4A07ELJDwrc/view)**
   
-- 📫 How to reach me? **[My Email](kotharisourabh06@gmail.com)**
+- 📫 How to reach me? Drop me a mail at **kotharisourabh06@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
